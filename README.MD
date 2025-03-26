@@ -17,6 +17,9 @@ A web app that ranks resumes based on relevance to a job description using AI (G
    npm install
    npm start
    ```
+3. The frontend can be accessed at:
+   - **Local:** `http://localhost:3000`
+   - **On Your Network:** `http://192.168.194.95:3000`
 
 ### **Backend (PHP)**
 1. Navigate to `/backend`
@@ -25,5 +28,8 @@ A web app that ranks resumes based on relevance to a job description using AI (G
    php -S localhost:8000
    ```
 3. The backend will run on `http://localhost:8000`
+
+### **Upload Limit**
+- Due to PHP size limits, **only up to 20 resumes** can be uploaded at a time.
 
 ✅ **Now your frontend (React) and backend (PHP) are up and running!** 🚀
