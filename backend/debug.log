@@ -1,0 +1,524 @@
+
+
+===== NEW REQUEST =====
+FILES: Array
+(
+    [resumes] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => cv - khushi-compressed.pdf
+                    [8] => CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => ExampleResume - mani kandan.pdf
+                    [11] => Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => mallikares - rayabarapu srimallika.pdf
+                    [19] => Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Industry Project Resume/12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Industry Project Resume/Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Industry Project Resume/Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Industry Project Resume/Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Industry Project Resume/Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Industry Project Resume/Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => Industry Project Resume/CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => Industry Project Resume/cv - khushi-compressed.pdf
+                    [8] => Industry Project Resume/CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => Industry Project Resume/DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => Industry Project Resume/ExampleResume - mani kandan.pdf
+                    [11] => Industry Project Resume/Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => Industry Project Resume/GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Industry Project Resume/Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Industry Project Resume/Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Industry Project Resume/Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Industry Project Resume/Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Industry Project Resume/Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => Industry Project Resume/mallikares - rayabarapu srimallika.pdf
+                    [19] => Industry Project Resume/Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                    [1] => application/pdf
+                    [2] => application/pdf
+                    [3] => application/pdf
+                    [4] => application/pdf
+                    [5] => application/pdf
+                    [6] => application/pdf
+                    [7] => application/pdf
+                    [8] => application/pdf
+                    [9] => application/pdf
+                    [10] => application/pdf
+                    [11] => application/pdf
+                    [12] => application/pdf
+                    [13] => application/pdf
+                    [14] => application/pdf
+                    [15] => application/pdf
+                    [16] => application/pdf
+                    [17] => application/pdf
+                    [18] => application/pdf
+                    [19] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\Lenovo\AppData\Local\Temp\phpAB5C.tmp
+                    [1] => C:\Users\Lenovo\AppData\Local\Temp\phpAB5D.tmp
+                    [2] => C:\Users\Lenovo\AppData\Local\Temp\phpAB5E.tmp
+                    [3] => C:\Users\Lenovo\AppData\Local\Temp\phpAB5F.tmp
+                    [4] => C:\Users\Lenovo\AppData\Local\Temp\phpAB60.tmp
+                    [5] => C:\Users\Lenovo\AppData\Local\Temp\phpAB70.tmp
+                    [6] => C:\Users\Lenovo\AppData\Local\Temp\phpAB71.tmp
+                    [7] => C:\Users\Lenovo\AppData\Local\Temp\phpAB72.tmp
+                    [8] => C:\Users\Lenovo\AppData\Local\Temp\phpAB73.tmp
+                    [9] => C:\Users\Lenovo\AppData\Local\Temp\phpAB74.tmp
+                    [10] => C:\Users\Lenovo\AppData\Local\Temp\phpAB75.tmp
+                    [11] => C:\Users\Lenovo\AppData\Local\Temp\phpAB86.tmp
+                    [12] => C:\Users\Lenovo\AppData\Local\Temp\phpAB87.tmp
+                    [13] => C:\Users\Lenovo\AppData\Local\Temp\phpAB88.tmp
+                    [14] => C:\Users\Lenovo\AppData\Local\Temp\phpAB89.tmp
+                    [15] => C:\Users\Lenovo\AppData\Local\Temp\phpAB9A.tmp
+                    [16] => C:\Users\Lenovo\AppData\Local\Temp\phpAB9B.tmp
+                    [17] => C:\Users\Lenovo\AppData\Local\Temp\phpAB9C.tmp
+                    [18] => C:\Users\Lenovo\AppData\Local\Temp\phpAB9D.tmp
+                    [19] => C:\Users\Lenovo\AppData\Local\Temp\phpAB9E.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 128374
+                    [1] => 69078
+                    [2] => 120556
+                    [3] => 147301
+                    [4] => 72632
+                    [5] => 148307
+                    [6] => 77889
+                    [7] => 85163
+                    [8] => 162961
+                    [9] => 114423
+                    [10] => 438486
+                    [11] => 170940
+                    [12] => 104695
+                    [13] => 74582
+                    [14] => 142433
+                    [15] => 156273
+                    [16] => 49161
+                    [17] => 202892
+                    [18] => 111948
+                    [19] => 61625
+                )
+
+        )
+
+)
+
+POST: Array
+(
+    [jobDescription] => We are hiring a Manual Testing Intern to help ensure product quality through manual test cases and bug reporting.
+Key Responsibilities:
+•	- Execute test cases manually and log defects
+•	- Understand product features and create test scenarios
+•	- Work closely with developers to reproduce and fix bugs
+•	- Document test results and prepare test reports
+Skills Required:
+•	- Basic understanding of STLC, SDLC, and Testing Life Cycle
+•	- Knowledge of different testing types – Functional, Regression, Smoke, Sanity, etc.
+•	- Hands-on with Test Case Writing, Bug Reporting, and Test Scenarios
+•	- Familiarity with Bug Tracking Tools (Jira, Bugzilla)
+•	- Basic SQL knowledge for Database Testing
+•	- Understanding of Agile methodologies
+•	- Strong attention to detail, analytical and reporting skills
+•	- Clear written and verbal communication
+
+)
+
+
+
+===== NEW REQUEST =====
+FILES: Array
+(
+    [resumes] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => cv - khushi-compressed.pdf
+                    [8] => CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => ExampleResume - mani kandan.pdf
+                    [11] => Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => mallikares - rayabarapu srimallika.pdf
+                    [19] => Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Industry Project Resume/12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Industry Project Resume/Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Industry Project Resume/Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Industry Project Resume/Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Industry Project Resume/Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Industry Project Resume/Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => Industry Project Resume/CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => Industry Project Resume/cv - khushi-compressed.pdf
+                    [8] => Industry Project Resume/CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => Industry Project Resume/DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => Industry Project Resume/ExampleResume - mani kandan.pdf
+                    [11] => Industry Project Resume/Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => Industry Project Resume/GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Industry Project Resume/Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Industry Project Resume/Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Industry Project Resume/Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Industry Project Resume/Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Industry Project Resume/Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => Industry Project Resume/mallikares - rayabarapu srimallika.pdf
+                    [19] => Industry Project Resume/Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                    [1] => application/pdf
+                    [2] => application/pdf
+                    [3] => application/pdf
+                    [4] => application/pdf
+                    [5] => application/pdf
+                    [6] => application/pdf
+                    [7] => application/pdf
+                    [8] => application/pdf
+                    [9] => application/pdf
+                    [10] => application/pdf
+                    [11] => application/pdf
+                    [12] => application/pdf
+                    [13] => application/pdf
+                    [14] => application/pdf
+                    [15] => application/pdf
+                    [16] => application/pdf
+                    [17] => application/pdf
+                    [18] => application/pdf
+                    [19] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\Lenovo\AppData\Local\Temp\phpB88F.tmp
+                    [1] => C:\Users\Lenovo\AppData\Local\Temp\phpB890.tmp
+                    [2] => C:\Users\Lenovo\AppData\Local\Temp\phpB891.tmp
+                    [3] => C:\Users\Lenovo\AppData\Local\Temp\phpB892.tmp
+                    [4] => C:\Users\Lenovo\AppData\Local\Temp\phpB893.tmp
+                    [5] => C:\Users\Lenovo\AppData\Local\Temp\phpB894.tmp
+                    [6] => C:\Users\Lenovo\AppData\Local\Temp\phpB895.tmp
+                    [7] => C:\Users\Lenovo\AppData\Local\Temp\phpB896.tmp
+                    [8] => C:\Users\Lenovo\AppData\Local\Temp\phpB897.tmp
+                    [9] => C:\Users\Lenovo\AppData\Local\Temp\phpB8A8.tmp
+                    [10] => C:\Users\Lenovo\AppData\Local\Temp\phpB8A9.tmp
+                    [11] => C:\Users\Lenovo\AppData\Local\Temp\phpB8AA.tmp
+                    [12] => C:\Users\Lenovo\AppData\Local\Temp\phpB8AB.tmp
+                    [13] => C:\Users\Lenovo\AppData\Local\Temp\phpB8AC.tmp
+                    [14] => C:\Users\Lenovo\AppData\Local\Temp\phpB8AD.tmp
+                    [15] => C:\Users\Lenovo\AppData\Local\Temp\phpB8BD.tmp
+                    [16] => C:\Users\Lenovo\AppData\Local\Temp\phpB8BE.tmp
+                    [17] => C:\Users\Lenovo\AppData\Local\Temp\phpB8BF.tmp
+                    [18] => C:\Users\Lenovo\AppData\Local\Temp\phpB8C0.tmp
+                    [19] => C:\Users\Lenovo\AppData\Local\Temp\phpB8C1.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 128374
+                    [1] => 69078
+                    [2] => 120556
+                    [3] => 147301
+                    [4] => 72632
+                    [5] => 148307
+                    [6] => 77889
+                    [7] => 85163
+                    [8] => 162961
+                    [9] => 114423
+                    [10] => 438486
+                    [11] => 170940
+                    [12] => 104695
+                    [13] => 74582
+                    [14] => 142433
+                    [15] => 156273
+                    [16] => 49161
+                    [17] => 202892
+                    [18] => 111948
+                    [19] => 61625
+                )
+
+        )
+
+)
+
+POST: Array
+(
+    [jobDescription] => We are hiring a Manual Testing Intern to help ensure product quality through manual test cases and bug reporting.
+Key Responsibilities:
+•	- Execute test cases manually and log defects
+•	- Understand product features and create test scenarios
+•	- Work closely with developers to reproduce and fix bugs
+•	- Document test results and prepare test reports
+Skills Required:
+•	- Basic understanding of STLC, SDLC, and Testing Life Cycle
+•	- Knowledge of different testing types – Functional, Regression, Smoke, Sanity, etc.
+•	- Hands-on with Test Case Writing, Bug Reporting, and Test Scenarios
+•	- Familiarity with Bug Tracking Tools (Jira, Bugzilla)
+•	- Basic SQL knowledge for Database Testing
+•	- Understanding of Agile methodologies
+•	- Strong attention to detail, analytical and reporting skills
+•	- Clear written and verbal communication
+
+)
+
+
+===== New Request =====
+Files: Array
+(
+    [resumes] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => cv - khushi-compressed.pdf
+                    [8] => CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => ExampleResume - mani kandan.pdf
+                    [11] => Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => mallikares - rayabarapu srimallika.pdf
+                    [19] => Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Industry Project Resume/12305642_DebasishMukherjee (4) - Dev Mukherjee-compressed.pdf
+                    [1] => Industry Project Resume/Aditya MCA - Aditya Samrat-compressed.pdf
+                    [2] => Industry Project Resume/Aditya_Wadkar - Aditya Wadkar-compressed.pdf
+                    [3] => Industry Project Resume/Aniket Resume.pdf (1) - Aniket Kumar-compressed.pdf
+                    [4] => Industry Project Resume/Ansh sharma RESUME-1 - Ansh Sharma-compressed.pdf
+                    [5] => Industry Project Resume/Ashish kumar Resume - Kumar Singh-compressed.pdf
+                    [6] => Industry Project Resume/CHAMARTHI SRAVANI-RESUME - sravani chamarthi.pdf
+                    [7] => Industry Project Resume/cv - khushi-compressed.pdf
+                    [8] => Industry Project Resume/CV Saylee Makarand - SAYLEE MAKARAND.pdf
+                    [9] => Industry Project Resume/DOC-20250130-WA0027. - Adapa Akhilsairam.pdf
+                    [10] => Industry Project Resume/ExampleResume - mani kandan.pdf
+                    [11] => Industry Project Resume/Gaurav Galphade - Gaurav Galphade-compressed.pdf
+                    [12] => Industry Project Resume/GAURI GHEWARE RESUME (1) - Gauri Gheware-compressed.pdf
+                    [13] => Industry Project Resume/Jaisurya_S Resume - Jaisurya S.pdf
+                    [14] => Industry Project Resume/Kasinath_T_U_Resume - KASINATH T U.pdf
+                    [15] => Industry Project Resume/Lakshmi_CV_Updated - Lakshmi-compressed.pdf
+                    [16] => Industry Project Resume/Lokesh_resume - Lokeshkumar M-compressed.pdf
+                    [17] => Industry Project Resume/Malik_Ahamed_FrontendDeveloper_Fresher - Malik Ahamed.pdf
+                    [18] => Industry Project Resume/mallikares - rayabarapu srimallika.pdf
+                    [19] => Industry Project Resume/Pankaj_SahebraoRathod_Resume_2 (2) - pankaj rathod-compressed.pdf
+                )
+
+            [type] => Array
+                (
+                    [0] => application/pdf
+                    [1] => application/pdf
+                    [2] => application/pdf
+                    [3] => application/pdf
+                    [4] => application/pdf
+                    [5] => application/pdf
+                    [6] => application/pdf
+                    [7] => application/pdf
+                    [8] => application/pdf
+                    [9] => application/pdf
+                    [10] => application/pdf
+                    [11] => application/pdf
+                    [12] => application/pdf
+                    [13] => application/pdf
+                    [14] => application/pdf
+                    [15] => application/pdf
+                    [16] => application/pdf
+                    [17] => application/pdf
+                    [18] => application/pdf
+                    [19] => application/pdf
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\Users\Lenovo\AppData\Local\Temp\phpDD3E.tmp
+                    [1] => C:\Users\Lenovo\AppData\Local\Temp\phpDD3F.tmp
+                    [2] => C:\Users\Lenovo\AppData\Local\Temp\phpDD40.tmp
+                    [3] => C:\Users\Lenovo\AppData\Local\Temp\phpDD41.tmp
+                    [4] => C:\Users\Lenovo\AppData\Local\Temp\phpDD42.tmp
+                    [5] => C:\Users\Lenovo\AppData\Local\Temp\phpDD43.tmp
+                    [6] => C:\Users\Lenovo\AppData\Local\Temp\phpDD44.tmp
+                    [7] => C:\Users\Lenovo\AppData\Local\Temp\phpDD54.tmp
+                    [8] => C:\Users\Lenovo\AppData\Local\Temp\phpDD55.tmp
+                    [9] => C:\Users\Lenovo\AppData\Local\Temp\phpDD56.tmp
+                    [10] => C:\Users\Lenovo\AppData\Local\Temp\phpDD57.tmp
+                    [11] => C:\Users\Lenovo\AppData\Local\Temp\phpDD58.tmp
+                    [12] => C:\Users\Lenovo\AppData\Local\Temp\phpDD69.tmp
+                    [13] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6A.tmp
+                    [14] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6B.tmp
+                    [15] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6C.tmp
+                    [16] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6D.tmp
+                    [17] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6E.tmp
+                    [18] => C:\Users\Lenovo\AppData\Local\Temp\phpDD6F.tmp
+                    [19] => C:\Users\Lenovo\AppData\Local\Temp\phpDD80.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                    [3] => 0
+                    [4] => 0
+                    [5] => 0
+                    [6] => 0
+                    [7] => 0
+                    [8] => 0
+                    [9] => 0
+                    [10] => 0
+                    [11] => 0
+                    [12] => 0
+                    [13] => 0
+                    [14] => 0
+                    [15] => 0
+                    [16] => 0
+                    [17] => 0
+                    [18] => 0
+                    [19] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 128374
+                    [1] => 69078
+                    [2] => 120556
+                    [3] => 147301
+                    [4] => 72632
+                    [5] => 148307
+                    [6] => 77889
+                    [7] => 85163
+                    [8] => 162961
+                    [9] => 114423
+                    [10] => 438486
+                    [11] => 170940
+                    [12] => 104695
+                    [13] => 74582
+                    [14] => 142433
+                    [15] => 156273
+                    [16] => 49161
+                    [17] => 202892
+                    [18] => 111948
+                    [19] => 61625
+                )
+
+        )
+
+)
+
+POST: Array
+(
+    [jobDescription] => We are hiring a Manual Testing Intern to help ensure product quality through manual test cases and bug reporting.
+Key Responsibilities:
+•	- Execute test cases manually and log defects
+•	- Understand product features and create test scenarios
+•	- Work closely with developers to reproduce and fix bugs
+•	- Document test results and prepare test reports
+Skills Required:
+•	- Basic understanding of STLC, SDLC, and Testing Life Cycle
+•	- Knowledge of different testing types – Functional, Regression, Smoke, Sanity, etc.
+•	- Hands-on with Test Case Writing, Bug Reporting, and Test Scenarios
+•	- Familiarity with Bug Tracking Tools (Jira, Bugzilla)
+•	- Basic SQL knowledge for Database Testing
+•	- Understanding of Agile methodologies
+•	- Strong attention to detail, analytical and reporting skills
+•	- Clear written and verbal communication
+
+)
+

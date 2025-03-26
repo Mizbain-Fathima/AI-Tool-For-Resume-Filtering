@@ -1,0 +1,163 @@
+/* Base Styles */
+:root {
+  --primary: #2C3E50;
+  --secondary: #34495E;
+  --accent: #1ABC9C;
+  --light: #ECF0F1;
+  --dark: #2C3E50;
+  --success: #27AE60;
+  --warning: #E74C3C;
+  --gray: #BDC3C7;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: var(--light);
+  color: var(--dark);
+  line-height: 1.6;
+}
+
+/* App Container */
+.app-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: var(--primary);
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Upload Section */
+.folder-upload {
+  margin-bottom: 1rem;
+}
+
+.folder-upload-label {
+  display: inline-block;
+  padding: 14px 24px;
+  background: var(--light);
+  border: 2px dashed var(--gray);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-weight: bold;
+  color: var(--dark);
+}
+
+.folder-upload-label:hover {
+  background: var(--accent);
+  color: white;
+}
+
+.file-count {
+  font-size: 1rem;
+  color: var(--gray);
+  margin-top: 10px;
+}
+
+/* Buttons */
+.rank-button {
+  width: 100%;
+  padding: 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  background: linear-gradient(90deg, var(--primary), var(--secondary));
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+  margin-top: 20px;
+}
+
+.rank-button:hover:not(:disabled) {
+  transform: translateY(-3px);
+  box-shadow: 0px 8px 16px rgba(67, 97, 238, 0.2);
+}
+
+.rank-button:disabled {
+  background: var(--gray);
+  cursor: not-allowed;
+}
+
+.rank-button.processing {
+  position: relative;
+}
+
+.rank-button.processing::after {
+  content: '...';
+  animation: dots 1.5s infinite;
+}
+
+@keyframes dots {
+  0% { content: '.'; }
+  50% { content: '..'; }
+  100% { content: '...'; }
+}
+
+/* Results */
+.resume-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.resume-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+  border-left: 5px solid var(--primary);
+}
+
+.resume-card:hover {
+  transform: translateY(-5px);
+}
+
+.error-message {
+  color: var(--warning);
+  font-weight: bold;
+  background: #ffeeee;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.no-results {
+  font-size: 1rem;
+  color: var(--gray);
+  background: var(--light);
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 2rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 1rem;
+  }
+  .resume-grid {
+    grid-template-columns: 1fr;
+  }
+}
